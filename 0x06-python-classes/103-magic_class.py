@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""task 9: magic class"""
+
+
 import math
 
 
